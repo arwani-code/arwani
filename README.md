@@ -2,7 +2,7 @@
 
 ## Android Developer | Jetpack Compose Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building modern and delightful Android applications using the latest tools and technologies. My focus is on leveraging the power of Jetpack Compose to create beautiful and efficient user interfaces.
+I'm passionate about building modern and delightful Android applications using the latest tools and technologies. My focus is on leveraging the power of Jetpack Compose to create beautiful and efficient user interfaces.
 
 ### 🔧 Technologies & Tools
 
