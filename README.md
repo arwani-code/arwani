@@ -1,23 +1,10 @@
-# Hello, I'm Ahmad Arwani
+# Hi there👋!
 
-## Android Developer | Jetpack Compose Enthusiast
+LATEST UPDATE: kotlin multiplatform & jetpack compose :)
 
-I'm passionate about building modern and delightful Android applications using the latest tools and technologies. My focus is on leveraging the power of Jetpack Compose to create beautiful and efficient user interfaces.
-
-### 🔧 Technologies & Tools
-
-- **Languages:** Kotlin, Java
-- **Frameworks & Libraries:** Jetpack Compose, Android Architecture Components, Retrofit, Hilt, etc.
-- **Version Control:** Git
-- **IDE:** Android Studio
-
-### 📚 Current Learning Goals
-
-I'm constantly exploring new concepts and techniques in Android development to stay up-to-date with the ever-evolving ecosystem. Currently, my learning goals include:
-
-- Mastering advanced Jetpack Compose features.
-- Exploring best practices in reactive programming and MVVM architecture.
-- Improving UI/UX design skills to create visually appealing interfaces.
+- 👨‍🎓 24 years old computer science engineer.
+- 📱 Mobile App developer
+- 👨‍💻 #SelfTaught Developer.
 
 ### 📫 Let's Connect
 
